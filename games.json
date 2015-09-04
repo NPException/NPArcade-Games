@@ -1,0 +1,12 @@
+[
+  {
+    "id":"npe.downloadexample",
+    "title":"My Downloaded Example Game!",
+    "url":"https://raw.githubusercontent.com/NPException42/NPArcade-Games/master/games/npexception/example.jar",
+    "version":"1.0",
+    "author":"NPException",
+    "description":"This game will be downloaded once it is put into an arcade machine!",
+    "label":"https://raw.githubusercontent.com/NPException42/NPArcade/master/src/samplegame/src/com/example/arcadegame/assets/example_label.png",
+    "cartridge_color":"0000A0"
+  }
+]
